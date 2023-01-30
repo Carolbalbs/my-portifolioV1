@@ -9,7 +9,7 @@
 div.box-main{
     height: 100vh;
     width: 100%;
-    background-image: url('/src/images/background.png');
+    background-image: url(/src/images/background.png);
     background-color: #191919;
     background-repeat: no-repeat;
     background-position: center;
